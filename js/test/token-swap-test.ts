@@ -11,7 +11,6 @@ import {AccountLayout, Token, TOKEN_PROGRAM_ID} from '@solana/spl-token';
 import {TokenSwap, TOKEN_SWAP_PROGRAM_ID} from '../src';
 import {newAccountWithLamports} from '../src/util/new-account-with-lamports';
 import {sleep} from '../src/util/sleep';
-import {Numberu64} from '../src';
 
 // The following globals are created by `createTokenSwap` and used by subsequent tests
 // Token swap
