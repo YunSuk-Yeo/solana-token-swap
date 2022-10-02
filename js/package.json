@@ -1,16 +1,16 @@
 {
-  "name": "@solana/spl-token-swap",
-  "version": "0.2.0",
-  "description": "SPL Token Swap JavaScript API",
+  "name": "solana-token-swap-example",
+  "version": "0.0.0",
+  "description": "Uniswap like Solana Token Swap JavaScript API",
   "license": "MIT",
-  "author": "Solana Maintainers <maintainers@solana.foundation>",
-  "homepage": "https://solana.com/",
+  "author": "Yun Yeo <sw.yunsuk@gmail.com>",
+  "homepage": "https://github.com/YunSuk-Yeo/solana-token-swap",
   "repository": {
     "type": "git",
-    "url": "https://github.com/solana-labs/solana-program-library"
+    "url": "https://github.com/YunSuk-Yeo/solana-token-swap"
   },
   "bugs": {
-    "url": "https://github.com/solana-labs/solana-program-library/issues"
+    "url": "https://github.com/YunSuk-Yeo/solana-token-swap/issues"
   },
   "publishConfig": {
     "access": "public"

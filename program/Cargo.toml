@@ -1,9 +1,9 @@
 [package]
 name = "token-swap"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2021"
-description = "Solana Program Example Token Swap"
-repository = "https://github.com/~/~"
+description = "Uniswap like Solana Token Swap Example"
+repository = "https://github.com/YunSuk-Yeo/solana-token-swap"
 license = "Apache-2.0"
 
 [features]
